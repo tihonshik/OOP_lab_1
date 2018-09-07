@@ -1,11 +1,11 @@
 @charset "utf-8";
 /* CSS Document */
 body {
-    background: red;
+    background: green;
     font-family: "PT Sans", sans-serif;
     color: #2980b9;
     font-size: 12px;
 }
 .first{
-	color: green;
+	color: aqua;
 }
